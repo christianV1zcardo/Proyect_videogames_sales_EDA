@@ -33,7 +33,7 @@
 3. ~~Juegos Top x Genre~~
 4. ~~Juegos Top x Publisher~~
    
-5. Plataforma Top X Region
+5. ~~Plataforma Top X Region~~
 6. Critic Count x Critic Score
 7. User score x User Count
 8. Plataforma x Critic Score y User Score
@@ -41,7 +41,6 @@
 10. Genre x Critic Score y User Score PRINCIPALES
 11. Publisher x Critic Score y User Score PRINCIPALES
 12. Rating x x Critic Score y User Score
-13. TOP JUEGOS X TOP DEVELOPERS?
 
 ### PS4
 1. ~~Juegos que más se vendieron~~
