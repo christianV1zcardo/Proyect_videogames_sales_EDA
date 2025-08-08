@@ -43,7 +43,7 @@ El proyecto está dividido en tres notebooks / scripts principales:
 - **Distribución de juegos por plataforma**
 - **Distribución de juegos por clasificación (rating)**
 
-![Distribución de juegos](images\main_dist.png)
+![Distribución de juegos](images/main_dist.png)
 
 ---
 
@@ -54,17 +54,17 @@ El proyecto está dividido en tres notebooks / scripts principales:
 - **Top 10 juegos más vendidos por género**
 - **Top 10 juegos más vendidos por publisher**
 
-![Top 10 por consola](images\main_top10g_top12c.png)  
-![Top 10 por año](images\main_top10g_top12y.png)  
-![Top 10 por género](images\main_top10g_top12gen.png)  
-![Top 10 por publisher](images\main_top10g_top12pub.png)
+![Top 10 por consola](images/main_top10g_top12c.png)  
+![Top 10 por año](images/main_top10g_top12y.png)  
+![Top 10 por género](images/main_top10g_top12gen.png)  
+![Top 10 por publisher](images/main_top10g_top12pub.png)
 
 ---
 
 ### 3. Ventas por Región
 - Comparativa de plataformas más exitosas en **Norteamérica**, **Europa**, **Japón** y **Otros**.
   
-![Ventas por región](images\main_top10_plat_x_reg.png)
+![Ventas por región](images/main_top10_plat_x_reg.png)
 
 ---
 
@@ -74,16 +74,18 @@ El proyecto está dividido en tres notebooks / scripts principales:
 - Comparativas por género, rating y plataforma.
 - Pairplots de puntuaciones y ventas por región.
 
-![Pairplot puntuaciones](images\main_users_x_staff.png)  
-![Stripplot género-score](images\main_g_r_p_x_staff_user.png)
-![Pairplot puntuaciones](images\main_y_x_user_staff_sales.png)  
+![Pairplot puntuaciones](images/main_users_x_staff.png)  
+![Stripplot género-score](images/main_g_r_p_x_staff_user.png)  
+![Pairplot puntuaciones](images/main_y_x_user_staff_sales.png)  
 
-### 4. PS4 y XBOX
+---
 
-![PS4 Publisher vs Años](images\ps4_pub_vs_ans.png)
-![PS4 Publisher vs Años](images\ps4_top10.png)
-![PS4 Publisher vs Años](images\xbox_pub_vs_ans.png)
-![PS4 Publisher vs Años](images\xbox_pub_vs_ans.png)
+### 5. PS4 y XBOX
+
+![PS4 Publisher vs Años](images/ps4_pub_vs_ans.png)  
+![PS4 Top 10](images/ps4_top10.png)  
+![Xbox Publisher vs Años](images/xbox_pub_vs_ans.png)  
+![Xbox Top 10](images/xbox_top10.png)  
 
 ---
 
@@ -111,6 +113,5 @@ El proyecto está dividido en tres notebooks / scripts principales:
 ---
 
 ## ✨ Autor
-[Christian Vizcardo]
+[Christian Vizcardo]  
 [www.linkedin.com/in/christian-vizcardo]
----
