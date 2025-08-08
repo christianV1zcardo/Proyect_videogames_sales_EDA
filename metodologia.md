@@ -16,6 +16,7 @@
 2. ~~Eliminar nulos de Year~~
 3. ~~Llenar nulos con Unknown, mode y mediana~~
 4. ~~Cambiar Year a Int~~
+5. ~~Convertir Critic_Score a Decenas~~
 
 
 ## B. Principales Distribuciones
@@ -34,8 +35,8 @@
 4. ~~Juegos Top x Publisher~~
    
 5. ~~Plataforma Top X Region~~
-6. Critic Count x Critic Score
-7. User score x User Count
+6. ~~Critic Count x Critic Score~~
+7. ~~User score x User Count~~
 8. Plataforma x Critic Score y User Score
 9.  Year x Critic Score y User Score
 10. Genre x Critic Score y User Score PRINCIPALES
