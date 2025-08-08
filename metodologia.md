@@ -28,7 +28,7 @@
 
 ## C. Gráficos
 ### Main
-1. Juegos Top x Plataformas Principales
+1. ~~Juegos Top x Plataformas Principales~~
 2. Juegos Top x Year
 3. Juegos Top x Genre
 4. Juegos Top x Publisher
