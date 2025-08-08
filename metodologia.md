@@ -31,7 +31,7 @@
 1. ~~Juegos Top x Plataformas Principales~~
 2. ~~Juegos Top x Year~~
 3. ~~Juegos Top x Genre~~
-4. Juegos Top x Publisher
+4. ~~Juegos Top x Publisher~~
    
 5. Plataforma Top X Region
 6. Critic Count x Critic Score
