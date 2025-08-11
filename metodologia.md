@@ -54,4 +54,4 @@
 1. ~~Juegos que más se vendieron~~
 2. ~~Publishers que más vendieron~~
 3. ~~Top 10 Publishers x Años~~
-4. ~~Regiones x Años~~
+4. ~~Regiones x Años~~ 
